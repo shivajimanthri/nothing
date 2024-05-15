@@ -1,0 +1,6 @@
+tensorflow==2.15.0
+pandas==2.0.3
+streamlit==1.34.0
+nltk==3.8.1
+pickle==0.0.12
+keras==2.15.0
